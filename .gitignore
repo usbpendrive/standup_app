@@ -38,3 +38,5 @@
 
 C:\Users\f3rna\AppData\Local\JetBrains\RubyMine2025.3\projects\standup_app.92809616\rbs_collection\standup_app\rbs_collection.lock.yaml
 C:\Users\f3rna\AppData\Local\JetBrains\RubyMine2025.3\projects\standup_app.92809616\rbs_collection\standup_app\rbs_collection.yaml
+/app/assets/builds/*
+!/app/assets/builds/.keep
